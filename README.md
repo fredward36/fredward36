@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fredward36
 - 👀 I’m interested in mathematics and computer science
-- 🌱 I’m currently learning about non-linear data structures
+- 🌱 I’m currently learning about low-level programming.
 - 💞️ I’m looking to collaborate on web development and open source projects.
 - 📫 How to reach me:
  By email: fredy.jose@icloud.com
